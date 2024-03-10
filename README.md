@@ -1,12 +1,14 @@
 # XJTLU_ICS_Y2S2_Course-notes_23-24
 Ciallo～(∠・ω< )⌒★!
+
 欢迎来到本仓库~本仓库的内容是23-24学年西交利物浦大学信息与计算科学（ICS）专业大二第二学期课程笔记的汇总。
+
 Welcome to our repository! The content of this repository is the summary of course notes for the second semester of Information and Computing Science (ICS) Sophomores at XJTLU in the 23-24 academic year.
 
-##建立本仓库的目的
+## 建立本仓库的目的
 为促进学习小组更方便地分享管理所学课程笔记、心得，本仓库被建立为公用的，可被大家提交的合作学习平台，还请大家多多参与捏。
 
-##涵盖课程
+## 涵盖课程
 
 1. **CPT102 - Data Structures**
 2. **CPT104 - Operating Systems Concepts**
@@ -34,6 +36,7 @@ Welcome to our repository! The content of this repository is the summary of cour
 ## 如何贡献
 
 欢迎每位成员积极参与社群活动！如果您尚未了解什么是github，如何使用github，以下有推荐的教程：
+
 https://edu.csdn.net/skill/git/git-62c30f9c31f64a1d96af732c47c93f04?category=1413
 
 如果您想要贡献或提出建议，请按照以下步骤操作：
