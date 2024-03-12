@@ -32,8 +32,10 @@ Welcome to our repository! The content of this repository is the summary of cour
 ```markdown
 |------ 课程编号
     |------ 课程笔记
-|------ 习题试卷
-    |------ 课程编号
+    |------ 重点纪要
+    |------ 习题试卷
+自述文件
+重要节点时间表
 ```
 
 ## 如何贡献
