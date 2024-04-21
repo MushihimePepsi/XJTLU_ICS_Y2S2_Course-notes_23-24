@@ -1,0 +1,39 @@
+raw_dataframe
+MIC between 'Programme' and 'Gender': 0.047824228139272285
+MIC between 'Programme' and 'Grade': 0.2800900411960221
+MIC between 'Programme' and 'Total': 0.251545781756275
+MIC between 'Programme' and 'MCQ': 0.1465814492772051
+MIC between 'Programme' and 'Q1': 0.0675601312297199
+MIC between 'Programme' and 'Q2': 0.12797973604442195
+MIC between 'Programme' and 'Q3': 0.0842435757536032
+MIC between 'Programme' and 'Q4': 0.10639441709304488
+MIC between 'Programme' and 'Q5': 0.10040295244408338
+Feature: Grade, MIC: 0.2800900411960221
+Feature: Total, MIC: 0.251545781756275
+Feature: MCQ, MIC: 0.1465814492772051
+Feature: Q2, MIC: 0.12797973604442195
+Feature: Q4, MIC: 0.10639441709304488
+Feature: Q5, MIC: 0.10040295244408338
+Feature: Q3, MIC: 0.0842435757536032
+Feature: Q1, MIC: 0.0675601312297199
+Feature: Gender, MIC: 0.047824228139272285
+
+CW_Data_clear_grade3
+MIC between 'Programme' and 'Gender': 0.03733683789683404
+MIC between 'Programme' and 'Grade': 0.0
+MIC between 'Programme' and 'Total': 0.3360947037479224
+MIC between 'Programme' and 'MCQ': 0.17901293753211509
+MIC between 'Programme' and 'Q1': 0.07070607212351192
+MIC between 'Programme' and 'Q2': 0.14582577335830257
+MIC between 'Programme' and 'Q3': 0.1028876305702299
+MIC between 'Programme' and 'Q4': 0.12637973432845104
+MIC between 'Programme' and 'Q5': 0.11070022260868984
+Feature: Total, MIC: 0.3360947037479224
+Feature: MCQ, MIC: 0.17901293753211509
+Feature: Q2, MIC: 0.14582577335830257
+Feature: Q4, MIC: 0.12637973432845104
+Feature: Q5, MIC: 0.11070022260868984
+Feature: Q3, MIC: 0.1028876305702299
+Feature: Q1, MIC: 0.07070607212351192
+Feature: Gender, MIC: 0.03733683789683404
+Feature: Grade, MIC: 0.0
