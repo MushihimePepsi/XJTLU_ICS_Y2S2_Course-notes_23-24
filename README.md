@@ -42,10 +42,11 @@ Welcome to our repository! The content of this repository is the summary of cour
 
 如果您想直接对某一门课做出贡献，您可以直接在对应课程的文件夹下新建自己的文件夹，命名为<课程名>\[可选<_内容名>\]@<你的名字>，并在此文件夹中放入自己的内容。
 
-如：
+```markdown
 |------ INT104
         |------ 课程笔记
                     |------ INT104_课程笔记@Lihua（在这个目录下存放你的内容）
+```
 
 ## 如何贡献
 
