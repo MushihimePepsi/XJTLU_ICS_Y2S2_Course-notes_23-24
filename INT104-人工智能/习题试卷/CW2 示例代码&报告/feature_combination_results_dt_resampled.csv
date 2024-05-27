@@ -1,0 +1,220 @@
+n,combo,best_params,accuracy
+3,"('Total', 'MCQ', 'Q2')","{'max_depth': 2, 'min_samples_leaf': 3, 'min_samples_split': 2}",0.5885714285714285
+3,"('Total', 'MCQ', 'Q3')","{'max_depth': 2, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5885714285714285
+3,"('Total', 'MCQ', 'Q4')","{'max_depth': 2, 'min_samples_leaf': 6, 'min_samples_split': 2}",0.5885714285714285
+3,"('Total', 'Q2', 'Q3')","{'max_depth': 2, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5885714285714285
+3,"('Total', 'Q3', 'Q4')","{'max_depth': 2, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5885714285714285
+3,"('Total', 'Q3', 'Q5')","{'max_depth': 2, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5885714285714285
+4,"('Gender', 'Total', 'Q3', 'Q4')","{'max_depth': 2, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5885714285714285
+4,"('Total', 'MCQ', 'Q2', 'Q4')","{'max_depth': 2, 'min_samples_leaf': 6, 'min_samples_split': 2}",0.5885714285714285
+4,"('Total', 'MCQ', 'Q3', 'Q4')","{'max_depth': 2, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5885714285714285
+4,"('Total', 'MCQ', 'Q4', 'Q5')","{'max_depth': 2, 'min_samples_leaf': 6, 'min_samples_split': 2}",0.5885714285714285
+4,"('Total', 'Q1', 'Q3', 'Q4')","{'max_depth': 2, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5885714285714285
+4,"('Total', 'Q2', 'Q3', 'Q4')","{'max_depth': 2, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5885714285714285
+4,"('Total', 'Q2', 'Q3', 'Q5')","{'max_depth': 2, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5885714285714285
+4,"('Total', 'Q3', 'Q4', 'Q5')","{'max_depth': 2, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5885714285714285
+5,"('Gender', 'Total', 'MCQ', 'Q3', 'Q4')","{'max_depth': 2, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5885714285714285
+5,"('Gender', 'Total', 'Q2', 'Q3', 'Q4')","{'max_depth': 2, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5885714285714285
+5,"('Gender', 'Total', 'Q3', 'Q4', 'Q5')","{'max_depth': 2, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5885714285714285
+5,"('Total', 'MCQ', 'Q1', 'Q2', 'Q4')","{'max_depth': 2, 'min_samples_leaf': 6, 'min_samples_split': 2}",0.5885714285714285
+5,"('Total', 'MCQ', 'Q3', 'Q4', 'Q5')","{'max_depth': 2, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5885714285714285
+5,"('Total', 'Q1', 'Q2', 'Q3', 'Q4')","{'max_depth': 2, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5885714285714285
+5,"('Total', 'Q1', 'Q3', 'Q4', 'Q5')","{'max_depth': 2, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5885714285714285
+5,"('Total', 'Q2', 'Q3', 'Q4', 'Q5')","{'max_depth': 2, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5885714285714285
+6,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2', 'Q4')","{'max_depth': 2, 'min_samples_leaf': 6, 'min_samples_split': 2}",0.5885714285714285
+6,"('Gender', 'Total', 'Q1', 'Q2', 'Q3', 'Q4')","{'max_depth': 2, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5885714285714285
+6,"('Total', 'MCQ', 'Q1', 'Q2', 'Q4', 'Q5')","{'max_depth': 2, 'min_samples_leaf': 6, 'min_samples_split': 2}",0.5885714285714285
+6,"('Total', 'Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'max_depth': 2, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5885714285714285
+5,"('Gender', 'MCQ', 'Q1', 'Q3', 'Q4')","{'max_depth': 6, 'min_samples_leaf': 4, 'min_samples_split': 7}",0.5828571428571429
+6,"('Gender', 'MCQ', 'Q1', 'Q3', 'Q4', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 5, 'min_samples_split': 11}",0.5828571428571429
+6,"('MCQ', 'Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 12, 'min_samples_split': 2}",0.5828571428571429
+5,"('MCQ', 'Q1', 'Q3', 'Q4', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 5, 'min_samples_split': 3}",0.5771428571428572
+3,"('MCQ', 'Q2', 'Q3')","{'max_depth': 8, 'min_samples_leaf': 6, 'min_samples_split': 13}",0.5714285714285714
+3,"('MCQ', 'Q2', 'Q4')","{'max_depth': 5, 'min_samples_leaf': 13, 'min_samples_split': 2}",0.5714285714285714
+3,"('MCQ', 'Q3', 'Q4')","{'max_depth': 6, 'min_samples_leaf': 5, 'min_samples_split': 2}",0.5714285714285714
+4,"('MCQ', 'Q2', 'Q4', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 13, 'min_samples_split': 3}",0.5714285714285714
+5,"('MCQ', 'Q1', 'Q2', 'Q3', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 12, 'min_samples_split': 2}",0.5714285714285714
+6,"('Gender', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q4')","{'max_depth': 8, 'min_samples_leaf': 5, 'min_samples_split': 6}",0.5714285714285714
+3,"('Gender', 'Total', 'MCQ')","{'max_depth': 6, 'min_samples_leaf': 6, 'min_samples_split': 2}",0.5657142857142857
+4,"('Gender', 'MCQ', 'Q3', 'Q4')","{'max_depth': 5, 'min_samples_leaf': 5, 'min_samples_split': 2}",0.5657142857142857
+4,"('MCQ', 'Q1', 'Q2', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 3, 'min_samples_split': 17}",0.5657142857142857
+5,"('Total', 'MCQ', 'Q2', 'Q3', 'Q4')","{'max_depth': 6, 'min_samples_leaf': 8, 'min_samples_split': 5}",0.5657142857142857
+5,"('Total', 'MCQ', 'Q2', 'Q3', 'Q5')","{'max_depth': 8, 'min_samples_leaf': 9, 'min_samples_split': 2}",0.5657142857142857
+6,"('Total', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q4')","{'max_depth': 7, 'min_samples_leaf': 6, 'min_samples_split': 4}",0.5657142857142857
+7,"('Total', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 3, 'min_samples_split': 17}",0.5657142857142857
+3,"('Gender', 'Total', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 6, 'min_samples_split': 4}",0.56
+3,"('Gender', 'MCQ', 'Q4')","{'max_depth': 5, 'min_samples_leaf': 4, 'min_samples_split': 16}",0.56
+3,"('Total', 'MCQ', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 3, 'min_samples_split': 14}",0.56
+3,"('MCQ', 'Q2', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 7, 'min_samples_split': 15}",0.56
+4,"('Total', 'MCQ', 'Q3', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 7, 'min_samples_split': 15}",0.56
+5,"('Gender', 'MCQ', 'Q1', 'Q4', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 8, 'min_samples_split': 7}",0.56
+7,"('Gender', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'max_depth': 8, 'min_samples_leaf': 8, 'min_samples_split': 3}",0.56
+3,"('Gender', 'MCQ', 'Q2')","{'max_depth': 5, 'min_samples_leaf': 3, 'min_samples_split': 2}",0.5542857142857143
+4,"('Gender', 'Total', 'MCQ', 'Q1')","{'max_depth': 7, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5542857142857143
+4,"('Gender', 'MCQ', 'Q4', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 4, 'min_samples_split': 15}",0.5542857142857143
+5,"('MCQ', 'Q2', 'Q3', 'Q4', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 16, 'min_samples_split': 2}",0.5542857142857143
+3,"('Gender', 'Q1', 'Q2')","{'max_depth': 4, 'min_samples_leaf': 17, 'min_samples_split': 2}",0.5485714285714286
+3,"('Gender', 'Q2', 'Q4')","{'max_depth': 4, 'min_samples_leaf': 3, 'min_samples_split': 3}",0.5485714285714286
+4,"('Gender', 'Total', 'MCQ', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 7, 'min_samples_split': 5}",0.5485714285714286
+5,"('Gender', 'Total', 'MCQ', 'Q3', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 7, 'min_samples_split': 15}",0.5485714285714286
+5,"('Gender', 'MCQ', 'Q1', 'Q2', 'Q4')","{'max_depth': 7, 'min_samples_leaf': 5, 'min_samples_split': 2}",0.5485714285714286
+5,"('Gender', 'MCQ', 'Q3', 'Q4', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 8, 'min_samples_split': 2}",0.5485714285714286
+6,"('Gender', 'MCQ', 'Q1', 'Q2', 'Q4', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 3, 'min_samples_split': 3}",0.5485714285714286
+3,"('Gender', 'Total', 'Q2')","{'max_depth': 4, 'min_samples_leaf': 24, 'min_samples_split': 2}",0.5428571428571428
+3,"('MCQ', 'Q1', 'Q2')","{'max_depth': 6, 'min_samples_leaf': 3, 'min_samples_split': 7}",0.5428571428571428
+4,"('Gender', 'Total', 'Q1', 'Q2')","{'max_depth': 4, 'min_samples_leaf': 24, 'min_samples_split': 2}",0.5428571428571428
+4,"('Gender', 'Total', 'Q2', 'Q4')","{'max_depth': 4, 'min_samples_leaf': 24, 'min_samples_split': 2}",0.5428571428571428
+4,"('Gender', 'Total', 'Q2', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 24, 'min_samples_split': 2}",0.5428571428571428
+5,"('Gender', 'Total', 'Q1', 'Q2', 'Q4')","{'max_depth': 4, 'min_samples_leaf': 24, 'min_samples_split': 2}",0.5428571428571428
+5,"('Gender', 'Total', 'Q1', 'Q2', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 24, 'min_samples_split': 2}",0.5428571428571428
+6,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 24, 'min_samples_split': 2}",0.5428571428571428
+6,"('Gender', 'Total', 'MCQ', 'Q2', 'Q4', 'Q5')","{'max_depth': 6, 'min_samples_leaf': 6, 'min_samples_split': 2}",0.5428571428571428
+6,"('Gender', 'Total', 'Q1', 'Q2', 'Q4', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 24, 'min_samples_split': 2}",0.5428571428571428
+6,"('Total', 'MCQ', 'Q2', 'Q3', 'Q4', 'Q5')","{'max_depth': 6, 'min_samples_leaf': 7, 'min_samples_split': 17}",0.5428571428571428
+7,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2', 'Q4', 'Q5')","{'max_depth': 6, 'min_samples_leaf': 6, 'min_samples_split': 5}",0.5428571428571428
+5,"('Gender', 'MCQ', 'Q2', 'Q3', 'Q4')","{'max_depth': 6, 'min_samples_leaf': 4, 'min_samples_split': 6}",0.5371428571428571
+5,"('Gender', 'MCQ', 'Q2', 'Q4', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 3, 'min_samples_split': 2}",0.5371428571428571
+3,"('Gender', 'Q2', 'Q3')","{'max_depth': 5, 'min_samples_leaf': 9, 'min_samples_split': 2}",0.5314285714285715
+3,"('MCQ', 'Q1', 'Q5')","{'max_depth': 3, 'min_samples_leaf': 9, 'min_samples_split': 2}",0.5314285714285715
+4,"('Gender', 'MCQ', 'Q1', 'Q2')","{'max_depth': 7, 'min_samples_leaf': 4, 'min_samples_split': 11}",0.5314285714285715
+4,"('Gender', 'MCQ', 'Q2', 'Q5')","{'max_depth': 8, 'min_samples_leaf': 3, 'min_samples_split': 10}",0.5314285714285715
+4,"('Total', 'MCQ', 'Q1', 'Q3')","{'max_depth': 6, 'min_samples_leaf': 8, 'min_samples_split': 2}",0.5314285714285715
+4,"('MCQ', 'Q3', 'Q4', 'Q5')","{'max_depth': 6, 'min_samples_leaf': 5, 'min_samples_split': 3}",0.5314285714285715
+5,"('Gender', 'Total', 'MCQ', 'Q1', 'Q3')","{'max_depth': 6, 'min_samples_leaf': 8, 'min_samples_split': 2}",0.5314285714285715
+5,"('Gender', 'MCQ', 'Q1', 'Q2', 'Q3')","{'max_depth': 7, 'min_samples_leaf': 3, 'min_samples_split': 2}",0.5314285714285715
+5,"('Gender', 'MCQ', 'Q1', 'Q2', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 5, 'min_samples_split': 17}",0.5314285714285715
+5,"('Total', 'Q1', 'Q2', 'Q3', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 24, 'min_samples_split': 2}",0.5314285714285715
+3,"('MCQ', 'Q1', 'Q3')","{'max_depth': 3, 'min_samples_leaf': 8, 'min_samples_split': 2}",0.5257142857142857
+4,"('Gender', 'MCQ', 'Q1', 'Q4')","{'max_depth': 3, 'min_samples_leaf': 6, 'min_samples_split': 16}",0.5257142857142857
+4,"('Gender', 'MCQ', 'Q2', 'Q4')","{'max_depth': 4, 'min_samples_leaf': 3, 'min_samples_split': 7}",0.5257142857142857
+5,"('Gender', 'Q1', 'Q2', 'Q3', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 15, 'min_samples_split': 2}",0.5257142857142857
+6,"('Gender', 'MCQ', 'Q2', 'Q3', 'Q4', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 8, 'min_samples_split': 2}",0.5257142857142857
+3,"('Gender', 'Q1', 'Q3')","{'max_depth': 7, 'min_samples_leaf': 4, 'min_samples_split': 9}",0.52
+3,"('Total', 'Q4', 'Q5')","{'max_depth': 3, 'min_samples_leaf': 24, 'min_samples_split': 2}",0.52
+4,"('Gender', 'MCQ', 'Q2', 'Q3')","{'max_depth': 6, 'min_samples_leaf': 8, 'min_samples_split': 2}",0.52
+4,"('Gender', 'Q1', 'Q2', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 23, 'min_samples_split': 2}",0.52
+5,"('Gender', 'Total', 'MCQ', 'Q4', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.52
+6,"('Gender', 'Total', 'MCQ', 'Q2', 'Q3', 'Q4')","{'max_depth': 4, 'min_samples_leaf': 6, 'min_samples_split': 5}",0.52
+6,"('Total', 'MCQ', 'Q1', 'Q3', 'Q4', 'Q5')","{'max_depth': 6, 'min_samples_leaf': 8, 'min_samples_split': 17}",0.52
+7,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q4')","{'max_depth': 4, 'min_samples_leaf': 6, 'min_samples_split': 4}",0.52
+3,"('Gender', 'Q3', 'Q4')","{'max_depth': 5, 'min_samples_leaf': 3, 'min_samples_split': 17}",0.5142857142857142
+3,"('Total', 'Q1', 'Q2')","{'max_depth': 4, 'min_samples_leaf': 24, 'min_samples_split': 2}",0.5142857142857142
+3,"('Total', 'Q1', 'Q3')","{'max_depth': 4, 'min_samples_leaf': 24, 'min_samples_split': 2}",0.5142857142857142
+3,"('Total', 'Q1', 'Q5')","{'max_depth': 3, 'min_samples_leaf': 11, 'min_samples_split': 2}",0.5142857142857142
+3,"('Total', 'Q2', 'Q4')","{'max_depth': 4, 'min_samples_leaf': 24, 'min_samples_split': 2}",0.5142857142857142
+3,"('Total', 'Q2', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 24, 'min_samples_split': 2}",0.5142857142857142
+4,"('Gender', 'Total', 'Q1', 'Q4')","{'max_depth': 6, 'min_samples_leaf': 6, 'min_samples_split': 16}",0.5142857142857142
+4,"('Gender', 'Total', 'Q1', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 6, 'min_samples_split': 13}",0.5142857142857142
+4,"('Gender', 'Total', 'Q4', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 6, 'min_samples_split': 4}",0.5142857142857142
+4,"('Total', 'MCQ', 'Q1', 'Q2')","{'max_depth': 4, 'min_samples_leaf': 24, 'min_samples_split': 2}",0.5142857142857142
+4,"('Total', 'Q1', 'Q2', 'Q4')","{'max_depth': 4, 'min_samples_leaf': 24, 'min_samples_split': 2}",0.5142857142857142
+4,"('Total', 'Q1', 'Q2', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 24, 'min_samples_split': 2}",0.5142857142857142
+4,"('Total', 'Q1', 'Q3', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 24, 'min_samples_split': 2}",0.5142857142857142
+4,"('Total', 'Q1', 'Q4', 'Q5')","{'max_depth': 3, 'min_samples_leaf': 11, 'min_samples_split': 2}",0.5142857142857142
+4,"('Total', 'Q2', 'Q4', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 24, 'min_samples_split': 2}",0.5142857142857142
+5,"('Gender', 'Total', 'MCQ', 'Q1', 'Q4')","{'max_depth': 5, 'min_samples_leaf': 10, 'min_samples_split': 2}",0.5142857142857142
+5,"('Total', 'MCQ', 'Q1', 'Q2', 'Q3')","{'max_depth': 7, 'min_samples_leaf': 3, 'min_samples_split': 13}",0.5142857142857142
+5,"('Total', 'MCQ', 'Q1', 'Q2', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 24, 'min_samples_split': 2}",0.5142857142857142
+5,"('Total', 'Q1', 'Q2', 'Q4', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 24, 'min_samples_split': 2}",0.5142857142857142
+6,"('Gender', 'Total', 'MCQ', 'Q1', 'Q3', 'Q4')","{'max_depth': 6, 'min_samples_leaf': 10, 'min_samples_split': 3}",0.5142857142857142
+6,"('Gender', 'Total', 'MCQ', 'Q1', 'Q4', 'Q5')","{'max_depth': 6, 'min_samples_leaf': 12, 'min_samples_split': 5}",0.5142857142857142
+6,"('Total', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 5, 'min_samples_split': 14}",0.5142857142857142
+7,"('Gender', 'Total', 'MCQ', 'Q2', 'Q3', 'Q4', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 6, 'min_samples_split': 2}",0.5142857142857142
+8,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 6, 'min_samples_split': 4}",0.5142857142857142
+3,"('Gender', 'MCQ', 'Q3')","{'max_depth': 6, 'min_samples_leaf': 8, 'min_samples_split': 2}",0.5085714285714286
+4,"('Gender', 'Q1', 'Q2', 'Q4')","{'max_depth': 3, 'min_samples_leaf': 12, 'min_samples_split': 2}",0.5085714285714286
+4,"('Gender', 'Q1', 'Q4', 'Q5')","{'max_depth': 6, 'min_samples_leaf': 5, 'min_samples_split': 17}",0.5085714285714286
+4,"('Total', 'MCQ', 'Q1', 'Q4')","{'max_depth': 7, 'min_samples_leaf': 9, 'min_samples_split': 2}",0.5085714285714286
+4,"('Total', 'MCQ', 'Q2', 'Q3')","{'max_depth': 7, 'min_samples_leaf': 3, 'min_samples_split': 16}",0.5085714285714286
+4,"('MCQ', 'Q1', 'Q3', 'Q5')","{'max_depth': 3, 'min_samples_leaf': 8, 'min_samples_split': 2}",0.5085714285714286
+5,"('Gender', 'Total', 'MCQ', 'Q2', 'Q4')","{'max_depth': 6, 'min_samples_leaf': 6, 'min_samples_split': 4}",0.5085714285714286
+5,"('Gender', 'Total', 'Q1', 'Q3', 'Q4')","{'max_depth': 8, 'min_samples_leaf': 8, 'min_samples_split': 2}",0.5085714285714286
+5,"('Total', 'MCQ', 'Q1', 'Q3', 'Q5')","{'max_depth': 8, 'min_samples_leaf': 4, 'min_samples_split': 16}",0.5085714285714286
+6,"('Gender', 'Total', 'MCQ', 'Q1', 'Q3', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5085714285714286
+6,"('Gender', 'Total', 'Q1', 'Q3', 'Q4', 'Q5')","{'max_depth': 8, 'min_samples_leaf': 8, 'min_samples_split': 3}",0.5085714285714286
+3,"('Gender', 'MCQ', 'Q5')","{'max_depth': 6, 'min_samples_leaf': 3, 'min_samples_split': 9}",0.5028571428571429
+3,"('Gender', 'Q4', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 5, 'min_samples_split': 2}",0.5028571428571429
+4,"('Gender', 'Total', 'MCQ', 'Q2')","{'max_depth': 8, 'min_samples_leaf': 3, 'min_samples_split': 8}",0.5028571428571429
+4,"('Gender', 'Q1', 'Q2', 'Q3')","{'max_depth': 6, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.5028571428571429
+4,"('Gender', 'Q1', 'Q3', 'Q4')","{'max_depth': 4, 'min_samples_leaf': 3, 'min_samples_split': 12}",0.5028571428571429
+4,"('MCQ', 'Q1', 'Q2', 'Q3')","{'max_depth': 7, 'min_samples_leaf': 3, 'min_samples_split': 3}",0.5028571428571429
+4,"('MCQ', 'Q1', 'Q3', 'Q4')","{'max_depth': 4, 'min_samples_leaf': 6, 'min_samples_split': 14}",0.5028571428571429
+4,"('MCQ', 'Q2', 'Q3', 'Q4')","{'max_depth': 7, 'min_samples_leaf': 4, 'min_samples_split': 10}",0.5028571428571429
+4,"('Q1', 'Q2', 'Q3', 'Q4')","{'max_depth': 6, 'min_samples_leaf': 6, 'min_samples_split': 2}",0.5028571428571429
+5,"('Gender', 'Total', 'Q2', 'Q3', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 6, 'min_samples_split': 17}",0.5028571428571429
+5,"('Gender', 'Total', 'Q2', 'Q4', 'Q5')","{'max_depth': 8, 'min_samples_leaf': 6, 'min_samples_split': 14}",0.5028571428571429
+6,"('Gender', 'Total', 'MCQ', 'Q2', 'Q3', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 6, 'min_samples_split': 17}",0.5028571428571429
+6,"('Gender', 'Total', 'Q1', 'Q2', 'Q3', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 6, 'min_samples_split': 17}",0.5028571428571429
+6,"('Gender', 'Total', 'Q2', 'Q3', 'Q4', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 6, 'min_samples_split': 17}",0.5028571428571429
+7,"('Gender', 'Total', 'MCQ', 'Q1', 'Q3', 'Q4', 'Q5')","{'max_depth': 6, 'min_samples_leaf': 10, 'min_samples_split': 11}",0.5028571428571429
+7,"('Gender', 'Total', 'Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 6, 'min_samples_split': 17}",0.5028571428571429
+3,"('Gender', 'MCQ', 'Q1')","{'max_depth': 7, 'min_samples_leaf': 4, 'min_samples_split': 17}",0.49714285714285716
+3,"('MCQ', 'Q4', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 20, 'min_samples_split': 4}",0.49714285714285716
+3,"('Q1', 'Q3', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 7, 'min_samples_split': 15}",0.49714285714285716
+4,"('Gender', 'Total', 'Q1', 'Q3')","{'max_depth': 8, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.49714285714285716
+4,"('Gender', 'Total', 'Q2', 'Q3')","{'max_depth': 8, 'min_samples_leaf': 8, 'min_samples_split': 17}",0.49714285714285716
+4,"('Gender', 'MCQ', 'Q1', 'Q3')","{'max_depth': 6, 'min_samples_leaf': 3, 'min_samples_split': 9}",0.49714285714285716
+4,"('Gender', 'MCQ', 'Q1', 'Q5')","{'max_depth': 8, 'min_samples_leaf': 3, 'min_samples_split': 9}",0.49714285714285716
+4,"('MCQ', 'Q2', 'Q3', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 6, 'min_samples_split': 17}",0.49714285714285716
+5,"('Gender', 'Total', 'Q1', 'Q4', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 6, 'min_samples_split': 10}",0.49714285714285716
+5,"('Gender', 'MCQ', 'Q2', 'Q3', 'Q5')","{'max_depth': 6, 'min_samples_leaf': 5, 'min_samples_split': 15}",0.49714285714285716
+5,"('Total', 'MCQ', 'Q2', 'Q4', 'Q5')","{'max_depth': 8, 'min_samples_leaf': 4, 'min_samples_split': 11}",0.49714285714285716
+3,"('MCQ', 'Q3', 'Q5')","{'max_depth': 8, 'min_samples_leaf': 3, 'min_samples_split': 2}",0.49142857142857144
+3,"('Q2', 'Q3', 'Q4')","{'max_depth': 6, 'min_samples_leaf': 4, 'min_samples_split': 12}",0.49142857142857144
+3,"('Q2', 'Q4', 'Q5')","{'max_depth': 6, 'min_samples_leaf': 3, 'min_samples_split': 14}",0.49142857142857144
+4,"('Gender', 'Total', 'Q3', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 6, 'min_samples_split': 14}",0.49142857142857144
+4,"('Gender', 'Q3', 'Q4', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 5, 'min_samples_split': 17}",0.49142857142857144
+4,"('Total', 'MCQ', 'Q2', 'Q5')","{'max_depth': 6, 'min_samples_leaf': 4, 'min_samples_split': 13}",0.49142857142857144
+5,"('Total', 'MCQ', 'Q1', 'Q3', 'Q4')","{'max_depth': 6, 'min_samples_leaf': 8, 'min_samples_split': 17}",0.49142857142857144
+3,"('Total', 'MCQ', 'Q1')","{'max_depth': 8, 'min_samples_leaf': 3, 'min_samples_split': 16}",0.4857142857142857
+3,"('Total', 'Q1', 'Q4')","{'max_depth': 3, 'min_samples_leaf': 9, 'min_samples_split': 2}",0.4857142857142857
+3,"('Q1', 'Q2', 'Q3')","{'max_depth': 4, 'min_samples_leaf': 3, 'min_samples_split': 3}",0.4857142857142857
+5,"('MCQ', 'Q1', 'Q2', 'Q3', 'Q4')","{'max_depth': 7, 'min_samples_leaf': 5, 'min_samples_split': 16}",0.4857142857142857
+6,"('Gender', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 8, 'min_samples_split': 17}",0.4857142857142857
+3,"('Gender', 'Q1', 'Q4')","{'max_depth': 6, 'min_samples_leaf': 4, 'min_samples_split': 16}",0.48
+3,"('Gender', 'Q2', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.48
+3,"('Q1', 'Q2', 'Q5')","{'max_depth': 6, 'min_samples_leaf': 8, 'min_samples_split': 2}",0.48
+4,"('Gender', 'Q2', 'Q3', 'Q4')","{'max_depth': 5, 'min_samples_leaf': 4, 'min_samples_split': 11}",0.48
+5,"('Gender', 'Total', 'Q1', 'Q3', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.48
+5,"('Gender', 'Q1', 'Q2', 'Q3', 'Q4')","{'max_depth': 5, 'min_samples_leaf': 4, 'min_samples_split': 14}",0.48
+5,"('Gender', 'Q1', 'Q2', 'Q4', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 3, 'min_samples_split': 16}",0.48
+6,"('Gender', 'Total', 'MCQ', 'Q3', 'Q4', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 7, 'min_samples_split': 17}",0.48
+3,"('Gender', 'Total', 'Q1')","{'max_depth': 8, 'min_samples_leaf': 4, 'min_samples_split': 15}",0.4742857142857143
+3,"('Q1', 'Q4', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 13, 'min_samples_split': 2}",0.4742857142857143
+4,"('Gender', 'Q2', 'Q4', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 3, 'min_samples_split': 2}",0.4742857142857143
+5,"('Gender', 'Total', 'MCQ', 'Q2', 'Q5')","{'max_depth': 8, 'min_samples_leaf': 3, 'min_samples_split': 4}",0.4742857142857143
+5,"('Total', 'MCQ', 'Q1', 'Q4', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 12, 'min_samples_split': 2}",0.4742857142857143
+3,"('Gender', 'Total', 'Q3')","{'max_depth': 8, 'min_samples_leaf': 7, 'min_samples_split': 16}",0.4685714285714286
+3,"('Q1', 'Q3', 'Q4')","{'max_depth': 6, 'min_samples_leaf': 7, 'min_samples_split': 17}",0.4685714285714286
+4,"('Gender', 'Total', 'MCQ', 'Q3')","{'max_depth': 6, 'min_samples_leaf': 6, 'min_samples_split': 16}",0.4685714285714286
+4,"('Gender', 'Q2', 'Q3', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.4685714285714286
+4,"('Total', 'Q1', 'Q2', 'Q3')","{'max_depth': 7, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.4685714285714286
+4,"('MCQ', 'Q1', 'Q2', 'Q4')","{'max_depth': 4, 'min_samples_leaf': 3, 'min_samples_split': 7}",0.4685714285714286
+4,"('Q1', 'Q2', 'Q3', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 18, 'min_samples_split': 2}",0.4685714285714286
+4,"('Q1', 'Q2', 'Q4', 'Q5')","{'max_depth': 8, 'min_samples_leaf': 3, 'min_samples_split': 17}",0.4685714285714286
+5,"('Gender', 'MCQ', 'Q1', 'Q3', 'Q5')","{'max_depth': 8, 'min_samples_leaf': 3, 'min_samples_split': 9}",0.4685714285714286
+3,"('Gender', 'Total', 'Q4')","{'max_depth': 5, 'min_samples_leaf': 6, 'min_samples_split': 2}",0.46285714285714286
+3,"('Q1', 'Q2', 'Q4')","{'max_depth': 7, 'min_samples_leaf': 3, 'min_samples_split': 14}",0.46285714285714286
+3,"('Q3', 'Q4', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 6, 'min_samples_split': 17}",0.46285714285714286
+4,"('Gender', 'Total', 'MCQ', 'Q4')","{'max_depth': 5, 'min_samples_leaf': 6, 'min_samples_split': 2}",0.46285714285714286
+4,"('Gender', 'Q1', 'Q3', 'Q5')","{'max_depth': 2, 'min_samples_leaf': 3, 'min_samples_split': 2}",0.46285714285714286
+5,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2')","{'max_depth': 7, 'min_samples_leaf': 3, 'min_samples_split': 7}",0.46285714285714286
+5,"('Gender', 'Total', 'Q1', 'Q2', 'Q3')","{'max_depth': 8, 'min_samples_leaf': 7, 'min_samples_split': 2}",0.46285714285714286
+6,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2', 'Q3')","{'max_depth': 7, 'min_samples_leaf': 3, 'min_samples_split': 13}",0.46285714285714286
+7,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 5, 'min_samples_split': 17}",0.46285714285714286
+3,"('Q2', 'Q3', 'Q5')","{'max_depth': 4, 'min_samples_leaf': 3, 'min_samples_split': 3}",0.45714285714285713
+5,"('Gender', 'Total', 'MCQ', 'Q2', 'Q3')","{'max_depth': 7, 'min_samples_leaf': 5, 'min_samples_split': 15}",0.45714285714285713
+4,"('Gender', 'MCQ', 'Q3', 'Q5')","{'max_depth': 6, 'min_samples_leaf': 6, 'min_samples_split': 2}",0.4514285714285714
+5,"('Gender', 'Q2', 'Q3', 'Q4', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 3, 'min_samples_split': 13}",0.4514285714285714
+3,"('Gender', 'Q1', 'Q5')","{'max_depth': 2, 'min_samples_leaf': 17, 'min_samples_split': 2}",0.44571428571428573
+3,"('Gender', 'Q3', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 3, 'min_samples_split': 8}",0.44571428571428573
+5,"('Gender', 'Q1', 'Q3', 'Q4', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 5, 'min_samples_split': 17}",0.44571428571428573
+3,"('MCQ', 'Q1', 'Q4')","{'max_depth': 2, 'min_samples_leaf': 23, 'min_samples_split': 2}",0.44
+4,"('MCQ', 'Q1', 'Q4', 'Q5')","{'max_depth': 2, 'min_samples_leaf': 23, 'min_samples_split': 4}",0.44
+4,"('Q1', 'Q3', 'Q4', 'Q5')","{'max_depth': 6, 'min_samples_leaf': 6, 'min_samples_split': 17}",0.44
+4,"('Q2', 'Q3', 'Q4', 'Q5')","{'max_depth': 7, 'min_samples_leaf': 3, 'min_samples_split': 17}",0.44
+5,"('Gender', 'Total', 'MCQ', 'Q1', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 6, 'min_samples_split': 13}",0.44
+5,"('MCQ', 'Q1', 'Q2', 'Q4', 'Q5')","{'max_depth': 2, 'min_samples_leaf': 23, 'min_samples_split': 4}",0.44
+5,"('Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'max_depth': 6, 'min_samples_leaf': 4, 'min_samples_split': 10}",0.4342857142857143
+6,"('Gender', 'Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 4, 'min_samples_split': 12}",0.42857142857142855
+4,"('Total', 'MCQ', 'Q1', 'Q5')","{'max_depth': 5, 'min_samples_leaf': 3, 'min_samples_split': 13}",0.4114285714285714

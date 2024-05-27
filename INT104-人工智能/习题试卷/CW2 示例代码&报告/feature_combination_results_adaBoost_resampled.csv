@@ -1,0 +1,220 @@
+n,combo,best_params,accuracy
+3,"('Gender', 'MCQ', 'Q3')","{'learning_rate': 1.0, 'n_estimators': 22}",0.6057142857142858
+4,"('MCQ', 'Q1', 'Q3', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 17}",0.5942857142857143
+6,"('Gender', 'Total', 'Q2', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 30}",0.5942857142857143
+3,"('MCQ', 'Q3', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 36}",0.5885714285714285
+5,"('Gender', 'Total', 'MCQ', 'Q2', 'Q3')","{'learning_rate': 1.0, 'n_estimators': 10}",0.5885714285714285
+5,"('Gender', 'Q1', 'Q2', 'Q3', 'Q4')","{'learning_rate': 1.3, 'n_estimators': 26}",0.5885714285714285
+6,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 30}",0.5885714285714285
+6,"('Gender', 'Total', 'MCQ', 'Q2', 'Q3', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 10}",0.5885714285714285
+4,"('Gender', 'Total', 'MCQ', 'Q1')","{'learning_rate': 1.1, 'n_estimators': 24}",0.5828571428571429
+4,"('Gender', 'Total', 'Q1', 'Q3')","{'learning_rate': 1.1, 'n_estimators': 27}",0.5828571428571429
+4,"('Gender', 'MCQ', 'Q2', 'Q3')","{'learning_rate': 1.0, 'n_estimators': 21}",0.5828571428571429
+4,"('Gender', 'Q1', 'Q3', 'Q4')","{'learning_rate': 1.0, 'n_estimators': 18}",0.5828571428571429
+5,"('Gender', 'Total', 'Q1', 'Q2', 'Q4')","{'learning_rate': 1.0, 'n_estimators': 15}",0.5828571428571429
+6,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2', 'Q4')","{'learning_rate': 1.0, 'n_estimators': 15}",0.5828571428571429
+6,"('Gender', 'Total', 'Q1', 'Q2', 'Q4', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 15}",0.5828571428571429
+7,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2', 'Q4', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 15}",0.5828571428571429
+3,"('Gender', 'Q1', 'Q4')","{'learning_rate': 1.0, 'n_estimators': 10}",0.5714285714285714
+3,"('Total', 'Q4', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 13}",0.5714285714285714
+4,"('Gender', 'Total', 'Q2', 'Q4')","{'learning_rate': 1.1, 'n_estimators': 30}",0.5714285714285714
+4,"('Total', 'MCQ', 'Q2', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 10}",0.5714285714285714
+5,"('Gender', 'MCQ', 'Q1', 'Q3', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 17}",0.5714285714285714
+5,"('Gender', 'MCQ', 'Q2', 'Q3', 'Q4')","{'learning_rate': 1.3, 'n_estimators': 37}",0.5714285714285714
+6,"('Gender', 'Total', 'Q1', 'Q2', 'Q3', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 37}",0.5714285714285714
+6,"('Gender', 'MCQ', 'Q1', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 36}",0.5714285714285714
+6,"('Total', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q4')","{'learning_rate': 1.2, 'n_estimators': 31}",0.5714285714285714
+7,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 31}",0.5714285714285714
+3,"('Gender', 'MCQ', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 32}",0.5657142857142857
+3,"('Gender', 'Q3', 'Q4')","{'learning_rate': 1.0, 'n_estimators': 10}",0.5657142857142857
+3,"('Total', 'MCQ', 'Q4')","{'learning_rate': 1.0, 'n_estimators': 18}",0.5657142857142857
+3,"('MCQ', 'Q2', 'Q3')","{'learning_rate': 1.3, 'n_estimators': 26}",0.5657142857142857
+4,"('Gender', 'MCQ', 'Q2', 'Q4')","{'learning_rate': 1.0, 'n_estimators': 30}",0.5657142857142857
+4,"('Total', 'MCQ', 'Q4', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 13}",0.5657142857142857
+4,"('Total', 'Q1', 'Q2', 'Q3')","{'learning_rate': 1.2, 'n_estimators': 37}",0.5657142857142857
+4,"('Q1', 'Q2', 'Q3', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 26}",0.5657142857142857
+5,"('Gender', 'Total', 'MCQ', 'Q3', 'Q4')","{'learning_rate': 1.1, 'n_estimators': 32}",0.5657142857142857
+5,"('Gender', 'MCQ', 'Q2', 'Q3', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 10}",0.5657142857142857
+5,"('Gender', 'Q1', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 11}",0.5657142857142857
+5,"('Total', 'Q1', 'Q2', 'Q3', 'Q4')","{'learning_rate': 1.2, 'n_estimators': 28}",0.5657142857142857
+5,"('MCQ', 'Q1', 'Q2', 'Q4', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 38}",0.5657142857142857
+3,"('Gender', 'Total', 'Q1')","{'learning_rate': 1.1, 'n_estimators': 22}",0.56
+3,"('Gender', 'Total', 'Q3')","{'learning_rate': 1.3, 'n_estimators': 24}",0.56
+3,"('Total', 'Q2', 'Q3')","{'learning_rate': 1.1, 'n_estimators': 29}",0.56
+3,"('Total', 'Q2', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 29}",0.56
+3,"('MCQ', 'Q1', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 16}",0.56
+3,"('MCQ', 'Q2', 'Q4')","{'learning_rate': 1.2, 'n_estimators': 24}",0.56
+3,"('MCQ', 'Q3', 'Q4')","{'learning_rate': 1.2, 'n_estimators': 19}",0.56
+3,"('MCQ', 'Q4', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 16}",0.56
+3,"('Q2', 'Q3', 'Q4')","{'learning_rate': 1.0, 'n_estimators': 16}",0.56
+4,"('Gender', 'Total', 'Q3', 'Q4')","{'learning_rate': 1.1, 'n_estimators': 36}",0.56
+4,"('Gender', 'Total', 'Q3', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 27}",0.56
+4,"('Total', 'MCQ', 'Q2', 'Q3')","{'learning_rate': 1.1, 'n_estimators': 19}",0.56
+4,"('Total', 'Q2', 'Q3', 'Q4')","{'learning_rate': 1.1, 'n_estimators': 31}",0.56
+5,"('Total', 'MCQ', 'Q2', 'Q3', 'Q4')","{'learning_rate': 1.1, 'n_estimators': 20}",0.56
+5,"('MCQ', 'Q2', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 11}",0.56
+6,"('Gender', 'Total', 'MCQ', 'Q1', 'Q3', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 25}",0.56
+6,"('Gender', 'Total', 'MCQ', 'Q2', 'Q3', 'Q4')","{'learning_rate': 1.2, 'n_estimators': 19}",0.56
+6,"('Gender', 'Total', 'Q1', 'Q2', 'Q3', 'Q4')","{'learning_rate': 1.2, 'n_estimators': 24}",0.56
+6,"('Gender', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 12}",0.56
+6,"('Gender', 'MCQ', 'Q2', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 32}",0.56
+6,"('Total', 'Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 28}",0.56
+7,"('Total', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 28}",0.56
+8,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 23}",0.56
+3,"('Gender', 'Total', 'Q2')","{'learning_rate': 1.0, 'n_estimators': 29}",0.5542857142857143
+3,"('Total', 'MCQ', 'Q2')","{'learning_rate': 1.1, 'n_estimators': 16}",0.5542857142857143
+4,"('Gender', 'Total', 'MCQ', 'Q2')","{'learning_rate': 1.0, 'n_estimators': 35}",0.5542857142857143
+4,"('Gender', 'Total', 'Q2', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 29}",0.5542857142857143
+4,"('Gender', 'Q1', 'Q3', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 30}",0.5542857142857143
+4,"('Total', 'MCQ', 'Q2', 'Q4')","{'learning_rate': 1.1, 'n_estimators': 20}",0.5542857142857143
+4,"('Total', 'Q2', 'Q3', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 29}",0.5542857142857143
+4,"('MCQ', 'Q1', 'Q3', 'Q4')","{'learning_rate': 1.3, 'n_estimators': 14}",0.5542857142857143
+4,"('MCQ', 'Q1', 'Q4', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 34}",0.5542857142857143
+5,"('Gender', 'Total', 'MCQ', 'Q1', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 24}",0.5542857142857143
+5,"('Gender', 'Total', 'MCQ', 'Q2', 'Q4')","{'learning_rate': 1.0, 'n_estimators': 13}",0.5542857142857143
+5,"('Gender', 'Total', 'MCQ', 'Q2', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 35}",0.5542857142857143
+5,"('Gender', 'Total', 'Q2', 'Q4', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 26}",0.5542857142857143
+5,"('Gender', 'Q1', 'Q2', 'Q4', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 18}",0.5542857142857143
+5,"('Total', 'MCQ', 'Q2', 'Q3', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 28}",0.5542857142857143
+5,"('Total', 'MCQ', 'Q2', 'Q4', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 20}",0.5542857142857143
+6,"('Gender', 'Total', 'MCQ', 'Q1', 'Q4', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 31}",0.5542857142857143
+6,"('Gender', 'Total', 'MCQ', 'Q2', 'Q4', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 26}",0.5542857142857143
+6,"('Gender', 'Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 26}",0.5542857142857143
+6,"('Total', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 32}",0.5542857142857143
+6,"('MCQ', 'Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 35}",0.5542857142857143
+3,"('Gender', 'MCQ', 'Q2')","{'learning_rate': 1.3, 'n_estimators': 28}",0.5485714285714286
+3,"('Gender', 'Q1', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 28}",0.5485714285714286
+3,"('Gender', 'Q2', 'Q3')","{'learning_rate': 1.3, 'n_estimators': 16}",0.5485714285714286
+3,"('MCQ', 'Q1', 'Q4')","{'learning_rate': 1.3, 'n_estimators': 12}",0.5485714285714286
+3,"('MCQ', 'Q2', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 17}",0.5485714285714286
+3,"('Q1', 'Q3', 'Q4')","{'learning_rate': 1.0, 'n_estimators': 12}",0.5485714285714286
+4,"('Gender', 'Total', 'Q1', 'Q2')","{'learning_rate': 1.0, 'n_estimators': 13}",0.5485714285714286
+4,"('Gender', 'Total', 'Q2', 'Q3')","{'learning_rate': 1.2, 'n_estimators': 31}",0.5485714285714286
+4,"('Total', 'MCQ', 'Q1', 'Q2')","{'learning_rate': 1.1, 'n_estimators': 10}",0.5485714285714286
+4,"('Total', 'Q1', 'Q2', 'Q4')","{'learning_rate': 1.2, 'n_estimators': 10}",0.5485714285714286
+4,"('MCQ', 'Q2', 'Q3', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 16}",0.5485714285714286
+4,"('MCQ', 'Q2', 'Q4', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 34}",0.5485714285714286
+5,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2')","{'learning_rate': 1.0, 'n_estimators': 13}",0.5485714285714286
+5,"('Gender', 'Total', 'Q2', 'Q3', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 31}",0.5485714285714286
+5,"('Gender', 'MCQ', 'Q1', 'Q3', 'Q4')","{'learning_rate': 1.3, 'n_estimators': 34}",0.5485714285714286
+5,"('Gender', 'MCQ', 'Q1', 'Q4', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 35}",0.5485714285714286
+5,"('Gender', 'MCQ', 'Q2', 'Q4', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 39}",0.5485714285714286
+5,"('Total', 'MCQ', 'Q1', 'Q2', 'Q4')","{'learning_rate': 1.1, 'n_estimators': 10}",0.5485714285714286
+5,"('Total', 'MCQ', 'Q1', 'Q2', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 32}",0.5485714285714286
+6,"('Gender', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q4')","{'learning_rate': 1.0, 'n_estimators': 28}",0.5485714285714286
+6,"('Total', 'MCQ', 'Q2', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 39}",0.5485714285714286
+7,"('Gender', 'Total', 'MCQ', 'Q2', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 29}",0.5485714285714286
+7,"('Gender', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 19}",0.5485714285714286
+3,"('Gender', 'Total', 'MCQ')","{'learning_rate': 1.0, 'n_estimators': 21}",0.5428571428571428
+3,"('Gender', 'Total', 'Q4')","{'learning_rate': 1.0, 'n_estimators': 18}",0.5428571428571428
+3,"('Gender', 'Total', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 18}",0.5428571428571428
+3,"('Gender', 'MCQ', 'Q4')","{'learning_rate': 1.1, 'n_estimators': 30}",0.5428571428571428
+3,"('Gender', 'Q1', 'Q3')","{'learning_rate': 1.0, 'n_estimators': 10}",0.5428571428571428
+3,"('Gender', 'Q2', 'Q4')","{'learning_rate': 1.3, 'n_estimators': 18}",0.5428571428571428
+3,"('Total', 'Q1', 'Q2')","{'learning_rate': 1.3, 'n_estimators': 17}",0.5428571428571428
+3,"('Q1', 'Q2', 'Q3')","{'learning_rate': 1.1, 'n_estimators': 10}",0.5428571428571428
+3,"('Q2', 'Q3', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 13}",0.5428571428571428
+4,"('Gender', 'Total', 'MCQ', 'Q4')","{'learning_rate': 1.0, 'n_estimators': 12}",0.5428571428571428
+4,"('Gender', 'Total', 'MCQ', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 18}",0.5428571428571428
+4,"('Gender', 'Total', 'Q1', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 22}",0.5428571428571428
+4,"('Gender', 'Total', 'Q4', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 12}",0.5428571428571428
+4,"('Gender', 'MCQ', 'Q2', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 13}",0.5428571428571428
+4,"('Gender', 'Q1', 'Q4', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 11}",0.5428571428571428
+4,"('Total', 'Q1', 'Q2', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 21}",0.5428571428571428
+4,"('MCQ', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 33}",0.5428571428571428
+5,"('Gender', 'Total', 'MCQ', 'Q3', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 18}",0.5428571428571428
+5,"('Gender', 'Total', 'MCQ', 'Q4', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 18}",0.5428571428571428
+5,"('Gender', 'Total', 'Q1', 'Q2', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 37}",0.5428571428571428
+5,"('Gender', 'Total', 'Q2', 'Q3', 'Q4')","{'learning_rate': 1.2, 'n_estimators': 29}",0.5428571428571428
+5,"('Total', 'MCQ', 'Q1', 'Q3', 'Q4')","{'learning_rate': 1.0, 'n_estimators': 34}",0.5428571428571428
+5,"('MCQ', 'Q1', 'Q2', 'Q3', 'Q4')","{'learning_rate': 1.3, 'n_estimators': 35}",0.5428571428571428
+5,"('MCQ', 'Q1', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 22}",0.5428571428571428
+5,"('Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 23}",0.5428571428571428
+6,"('Gender', 'Total', 'MCQ', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 18}",0.5428571428571428
+6,"('Total', 'MCQ', 'Q1', 'Q2', 'Q4', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 21}",0.5428571428571428
+3,"('MCQ', 'Q1', 'Q3')","{'learning_rate': 1.2, 'n_estimators': 18}",0.5371428571428571
+4,"('Gender', 'MCQ', 'Q4', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 16}",0.5371428571428571
+4,"('Gender', 'Q2', 'Q4', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 18}",0.5371428571428571
+4,"('Gender', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 37}",0.5371428571428571
+4,"('MCQ', 'Q1', 'Q2', 'Q4')","{'learning_rate': 1.3, 'n_estimators': 23}",0.5371428571428571
+4,"('MCQ', 'Q2', 'Q3', 'Q4')","{'learning_rate': 1.2, 'n_estimators': 26}",0.5371428571428571
+5,"('Gender', 'Total', 'MCQ', 'Q1', 'Q3')","{'learning_rate': 1.1, 'n_estimators': 25}",0.5371428571428571
+5,"('Gender', 'MCQ', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 27}",0.5371428571428571
+5,"('Gender', 'Q1', 'Q2', 'Q3', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 30}",0.5371428571428571
+6,"('Gender', 'Total', 'MCQ', 'Q1', 'Q3', 'Q4')","{'learning_rate': 1.1, 'n_estimators': 25}",0.5371428571428571
+6,"('Gender', 'MCQ', 'Q1', 'Q2', 'Q4', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 22}",0.5371428571428571
+7,"('Gender', 'Total', 'Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 23}",0.5371428571428571
+3,"('Total', 'MCQ', 'Q1')","{'learning_rate': 1.2, 'n_estimators': 22}",0.5314285714285715
+3,"('Total', 'Q1', 'Q4')","{'learning_rate': 1.2, 'n_estimators': 37}",0.5314285714285715
+4,"('Gender', 'Q2', 'Q3', 'Q4')","{'learning_rate': 1.1, 'n_estimators': 27}",0.5314285714285715
+5,"('Gender', 'Total', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 11}",0.5314285714285715
+5,"('Gender', 'MCQ', 'Q1', 'Q2', 'Q4')","{'learning_rate': 1.2, 'n_estimators': 13}",0.5314285714285715
+5,"('Gender', 'MCQ', 'Q1', 'Q2', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 24}",0.5314285714285715
+3,"('Gender', 'Q2', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 11}",0.5257142857142857
+3,"('Gender', 'Q4', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 32}",0.5257142857142857
+3,"('Q2', 'Q4', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 21}",0.5257142857142857
+4,"('Gender', 'Q1', 'Q2', 'Q3')","{'learning_rate': 1.3, 'n_estimators': 20}",0.5257142857142857
+4,"('Gender', 'Q1', 'Q2', 'Q4')","{'learning_rate': 1.0, 'n_estimators': 19}",0.5257142857142857
+4,"('Q1', 'Q2', 'Q3', 'Q4')","{'learning_rate': 1.1, 'n_estimators': 22}",0.5257142857142857
+4,"('Q1', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 10}",0.5257142857142857
+5,"('Gender', 'Total', 'Q1', 'Q3', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 27}",0.5257142857142857
+6,"('Total', 'MCQ', 'Q1', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 24}",0.5257142857142857
+7,"('Gender', 'Total', 'MCQ', 'Q1', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 36}",0.5257142857142857
+3,"('Gender', 'Q1', 'Q2')","{'learning_rate': 1.0, 'n_estimators': 12}",0.52
+3,"('Total', 'Q1', 'Q3')","{'learning_rate': 1.2, 'n_estimators': 31}",0.52
+3,"('Q1', 'Q2', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 25}",0.52
+4,"('Gender', 'MCQ', 'Q1', 'Q4')","{'learning_rate': 1.1, 'n_estimators': 35}",0.52
+4,"('Gender', 'MCQ', 'Q1', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 10}",0.52
+4,"('Gender', 'MCQ', 'Q3', 'Q4')","{'learning_rate': 1.2, 'n_estimators': 19}",0.52
+4,"('Gender', 'MCQ', 'Q3', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 16}",0.52
+5,"('Gender', 'Total', 'Q1', 'Q2', 'Q3')","{'learning_rate': 1.0, 'n_estimators': 10}",0.52
+5,"('Total', 'Q1', 'Q2', 'Q4', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 30}",0.52
+6,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2', 'Q3')","{'learning_rate': 1.0, 'n_estimators': 10}",0.52
+3,"('Gender', 'MCQ', 'Q1')","{'learning_rate': 1.3, 'n_estimators': 19}",0.5142857142857142
+3,"('Gender', 'Q3', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 23}",0.5142857142857142
+3,"('Q1', 'Q2', 'Q4')","{'learning_rate': 1.0, 'n_estimators': 19}",0.5142857142857142
+4,"('Gender', 'MCQ', 'Q1', 'Q2')","{'learning_rate': 1.3, 'n_estimators': 12}",0.5142857142857142
+4,"('Total', 'MCQ', 'Q1', 'Q3')","{'learning_rate': 1.1, 'n_estimators': 31}",0.5142857142857142
+4,"('MCQ', 'Q1', 'Q2', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 19}",0.5142857142857142
+4,"('Q1', 'Q2', 'Q4', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 21}",0.5142857142857142
+5,"('Gender', 'MCQ', 'Q1', 'Q2', 'Q3')","{'learning_rate': 1.3, 'n_estimators': 14}",0.5142857142857142
+5,"('Gender', 'Q2', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 17}",0.5142857142857142
+3,"('Total', 'MCQ', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 20}",0.5085714285714286
+3,"('Total', 'Q2', 'Q4')","{'learning_rate': 1.2, 'n_estimators': 10}",0.5085714285714286
+3,"('Q3', 'Q4', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 34}",0.5085714285714286
+4,"('Total', 'Q2', 'Q4', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 10}",0.5085714285714286
+4,"('MCQ', 'Q1', 'Q2', 'Q3')","{'learning_rate': 1.1, 'n_estimators': 32}",0.5085714285714286
+5,"('Total', 'MCQ', 'Q1', 'Q2', 'Q3')","{'learning_rate': 1.3, 'n_estimators': 21}",0.5085714285714286
+5,"('Total', 'MCQ', 'Q1', 'Q3', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 36}",0.5085714285714286
+5,"('Total', 'Q2', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 10}",0.5085714285714286
+7,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q4')","{'learning_rate': 1.1, 'n_estimators': 28}",0.5085714285714286
+4,"('Total', 'Q1', 'Q3', 'Q4')","{'learning_rate': 1.1, 'n_estimators': 28}",0.5028571428571429
+5,"('MCQ', 'Q1', 'Q2', 'Q3', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 11}",0.5028571428571429
+3,"('MCQ', 'Q1', 'Q2')","{'learning_rate': 1.3, 'n_estimators': 15}",0.49714285714285716
+4,"('Gender', 'Q1', 'Q2', 'Q5')","{'learning_rate': 1.0, 'n_estimators': 19}",0.49714285714285716
+4,"('Gender', 'Q2', 'Q3', 'Q5')","{'learning_rate': 1.3, 'n_estimators': 32}",0.49714285714285716
+5,"('Total', 'Q1', 'Q2', 'Q3', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 37}",0.49714285714285716
+5,"('Total', 'Q1', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 20}",0.49714285714285716
+4,"('Gender', 'Total', 'Q1', 'Q4')","{'learning_rate': 1.1, 'n_estimators': 16}",0.49142857142857144
+4,"('Total', 'MCQ', 'Q1', 'Q4')","{'learning_rate': 1.1, 'n_estimators': 26}",0.49142857142857144
+4,"('Total', 'MCQ', 'Q1', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 22}",0.49142857142857144
+4,"('Total', 'Q1', 'Q3', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 25}",0.49142857142857144
+5,"('Gender', 'Total', 'MCQ', 'Q1', 'Q4')","{'learning_rate': 1.1, 'n_estimators': 13}",0.49142857142857144
+5,"('Gender', 'Total', 'Q1', 'Q3', 'Q4')","{'learning_rate': 1.1, 'n_estimators': 16}",0.49142857142857144
+5,"('Gender', 'Total', 'Q1', 'Q4', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 16}",0.49142857142857144
+5,"('Total', 'MCQ', 'Q1', 'Q4', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 22}",0.49142857142857144
+6,"('Gender', 'Total', 'Q1', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 16}",0.49142857142857144
+3,"('Total', 'Q1', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 29}",0.4857142857142857
+3,"('Q1', 'Q3', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 30}",0.4857142857142857
+4,"('Gender', 'Total', 'MCQ', 'Q3')","{'learning_rate': 1.1, 'n_estimators': 33}",0.4857142857142857
+4,"('Total', 'Q1', 'Q4', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 14}",0.4857142857142857
+4,"('Q2', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.2, 'n_estimators': 32}",0.48
+3,"('Total', 'MCQ', 'Q3')","{'learning_rate': 1.1, 'n_estimators': 27}",0.4685714285714286
+3,"('Q1', 'Q4', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 14}",0.4685714285714286
+4,"('Gender', 'MCQ', 'Q1', 'Q3')","{'learning_rate': 1.3, 'n_estimators': 26}",0.4685714285714286
+4,"('Total', 'MCQ', 'Q3', 'Q4')","{'learning_rate': 1.1, 'n_estimators': 27}",0.4685714285714286
+3,"('Total', 'Q3', 'Q4')","{'learning_rate': 1.1, 'n_estimators': 27}",0.46285714285714286
+3,"('Total', 'Q3', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 27}",0.46285714285714286
+4,"('Total', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 27}",0.46285714285714286
+4,"('Total', 'MCQ', 'Q3', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 27}",0.45714285714285713
+5,"('Total', 'MCQ', 'Q3', 'Q4', 'Q5')","{'learning_rate': 1.1, 'n_estimators': 27}",0.45714285714285713
