@@ -1,0 +1,220 @@
+n,combo,best_params,accuracy
+3,"('Gender', 'MCQ', 'Q1')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.6381578947368421
+6,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2', 'Q3')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.6381578947368421
+3,"('Gender', 'MCQ', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.625
+4,"('Gender', 'Total', 'Q1', 'Q4')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.625
+4,"('Gender', 'Total', 'Q1', 'Q5')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.625
+4,"('Gender', 'MCQ', 'Q1', 'Q3')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.625
+4,"('Gender', 'MCQ', 'Q1', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.625
+4,"('Gender', 'MCQ', 'Q2', 'Q3')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.625
+5,"('Gender', 'Total', 'Q1', 'Q2', 'Q3')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.625
+5,"('Gender', 'MCQ', 'Q1', 'Q2', 'Q3')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.625
+5,"('Total', 'MCQ', 'Q1', 'Q2', 'Q3')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.625
+3,"('Gender', 'Total', 'Q2')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.618421052631579
+3,"('Gender', 'MCQ', 'Q3')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'sigmoid'}",0.618421052631579
+3,"('Total', 'Q1', 'Q5')","{'C': 100, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.618421052631579
+4,"('Gender', 'Total', 'Q2', 'Q3')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.618421052631579
+4,"('Total', 'MCQ', 'Q2', 'Q3')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.618421052631579
+4,"('MCQ', 'Q1', 'Q2', 'Q3')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.618421052631579
+5,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.618421052631579
+5,"('Gender', 'Total', 'MCQ', 'Q2', 'Q3')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.618421052631579
+5,"('Gender', 'Total', 'Q3', 'Q4', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.618421052631579
+5,"('Gender', 'MCQ', 'Q3', 'Q4', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.618421052631579
+6,"('Gender', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.618421052631579
+6,"('Total', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q5')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.618421052631579
+3,"('Gender', 'Total', 'Q1')","{'C': 100, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.6118421052631579
+3,"('Gender', 'Total', 'Q5')","{'C': 100, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.6118421052631579
+3,"('Total', 'MCQ', 'Q1')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.6118421052631579
+3,"('MCQ', 'Q1', 'Q2')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.6118421052631579
+3,"('MCQ', 'Q1', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.6118421052631579
+4,"('Gender', 'Total', 'MCQ', 'Q4')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.6118421052631579
+4,"('Gender', 'Total', 'Q1', 'Q3')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.6118421052631579
+4,"('MCQ', 'Q1', 'Q2', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.6118421052631579
+5,"('Gender', 'Total', 'MCQ', 'Q2', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.6118421052631579
+5,"('Gender', 'Total', 'Q1', 'Q3', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.6118421052631579
+5,"('Gender', 'Total', 'Q1', 'Q4', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.6118421052631579
+5,"('Total', 'MCQ', 'Q2', 'Q3', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'sigmoid'}",0.6118421052631579
+5,"('MCQ', 'Q1', 'Q2', 'Q3', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.6118421052631579
+6,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.6118421052631579
+6,"('Gender', 'Total', 'Q1', 'Q3', 'Q4', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.6118421052631579
+3,"('Gender', 'Total', 'Q4')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.6052631578947368
+3,"('Total', 'MCQ', 'Q5')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.6052631578947368
+3,"('MCQ', 'Q1', 'Q3')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.6052631578947368
+3,"('MCQ', 'Q1', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.6052631578947368
+3,"('MCQ', 'Q2', 'Q3')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.6052631578947368
+4,"('Gender', 'Total', 'MCQ', 'Q5')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.6052631578947368
+4,"('Gender', 'Total', 'Q2', 'Q4')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.6052631578947368
+4,"('Gender', 'Total', 'Q3', 'Q4')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.6052631578947368
+4,"('Gender', 'MCQ', 'Q3', 'Q4')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.6052631578947368
+4,"('Gender', 'MCQ', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.6052631578947368
+4,"('Total', 'Q1', 'Q2', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.6052631578947368
+4,"('Total', 'Q2', 'Q3', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'sigmoid'}",0.6052631578947368
+4,"('MCQ', 'Q1', 'Q3', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'sigmoid'}",0.6052631578947368
+4,"('MCQ', 'Q2', 'Q3', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.6052631578947368
+5,"('Total', 'Q1', 'Q2', 'Q3', 'Q5')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.6052631578947368
+6,"('Gender', 'Total', 'MCQ', 'Q1', 'Q3', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.6052631578947368
+6,"('Gender', 'Total', 'MCQ', 'Q1', 'Q4', 'Q5')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.6052631578947368
+3,"('Gender', 'Total', 'MCQ')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5986842105263158
+3,"('Gender', 'Total', 'Q3')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5986842105263158
+3,"('Total', 'Q1', 'Q2')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5986842105263158
+4,"('Gender', 'Total', 'MCQ', 'Q1')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5986842105263158
+4,"('Gender', 'Total', 'MCQ', 'Q3')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5986842105263158
+4,"('Gender', 'Total', 'Q1', 'Q2')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5986842105263158
+4,"('Gender', 'MCQ', 'Q1', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5986842105263158
+4,"('Gender', 'MCQ', 'Q2', 'Q4')","{'C': 100, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.5986842105263158
+4,"('Gender', 'MCQ', 'Q2', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'sigmoid'}",0.5986842105263158
+4,"('Gender', 'MCQ', 'Q3', 'Q5')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5986842105263158
+4,"('Total', 'MCQ', 'Q1', 'Q2')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5986842105263158
+4,"('Total', 'MCQ', 'Q1', 'Q3')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5986842105263158
+4,"('MCQ', 'Q1', 'Q3', 'Q4')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5986842105263158
+4,"('MCQ', 'Q1', 'Q4', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5986842105263158
+5,"('Gender', 'Total', 'MCQ', 'Q1', 'Q3')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'sigmoid'}",0.5986842105263158
+5,"('Gender', 'Total', 'MCQ', 'Q1', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5986842105263158
+5,"('Gender', 'Total', 'MCQ', 'Q1', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5986842105263158
+5,"('Gender', 'Total', 'Q1', 'Q2', 'Q4')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5986842105263158
+5,"('Gender', 'Total', 'Q2', 'Q4', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5986842105263158
+5,"('Gender', 'MCQ', 'Q1', 'Q2', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5986842105263158
+5,"('Gender', 'MCQ', 'Q1', 'Q3', 'Q4')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5986842105263158
+5,"('Gender', 'MCQ', 'Q1', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5986842105263158
+5,"('Gender', 'MCQ', 'Q2', 'Q3', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5986842105263158
+6,"('Gender', 'Total', 'MCQ', 'Q3', 'Q4', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5986842105263158
+6,"('Gender', 'MCQ', 'Q1', 'Q2', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5986842105263158
+6,"('Gender', 'MCQ', 'Q1', 'Q3', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5986842105263158
+6,"('Total', 'MCQ', 'Q2', 'Q3', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'sigmoid'}",0.5986842105263158
+7,"('Gender', 'Total', 'MCQ', 'Q2', 'Q3', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5986842105263158
+7,"('Gender', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5986842105263158
+3,"('Total', 'Q1', 'Q3')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+3,"('MCQ', 'Q4', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5921052631578947
+3,"('Q1', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+4,"('Gender', 'Total', 'Q3', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.5921052631578947
+4,"('Gender', 'MCQ', 'Q1', 'Q2')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+4,"('Total', 'MCQ', 'Q1', 'Q5')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+4,"('Total', 'Q1', 'Q3', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+5,"('Gender', 'Total', 'MCQ', 'Q2', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+5,"('Gender', 'Total', 'MCQ', 'Q3', 'Q4')","{'C': 100, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+5,"('Gender', 'Total', 'MCQ', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5921052631578947
+5,"('Gender', 'Total', 'Q2', 'Q3', 'Q4')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+5,"('Gender', 'MCQ', 'Q1', 'Q2', 'Q4')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+5,"('Gender', 'MCQ', 'Q1', 'Q3', 'Q5')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+5,"('Gender', 'MCQ', 'Q2', 'Q3', 'Q5')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+5,"('Gender', 'Q1', 'Q2', 'Q3', 'Q4')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+5,"('Gender', 'Q1', 'Q2', 'Q3', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5921052631578947
+5,"('Total', 'MCQ', 'Q1', 'Q2', 'Q5')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+5,"('Total', 'MCQ', 'Q3', 'Q4', 'Q5')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+5,"('MCQ', 'Q1', 'Q2', 'Q3', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5921052631578947
+6,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+6,"('Gender', 'Total', 'MCQ', 'Q2', 'Q3', 'Q4')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+6,"('Gender', 'Total', 'MCQ', 'Q2', 'Q3', 'Q5')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+6,"('Gender', 'Total', 'MCQ', 'Q2', 'Q4', 'Q5')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.5921052631578947
+6,"('Gender', 'Total', 'Q1', 'Q2', 'Q3', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+6,"('Gender', 'Total', 'Q1', 'Q2', 'Q4', 'Q5')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+6,"('Gender', 'Total', 'Q2', 'Q3', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+7,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+7,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+7,"('Gender', 'Total', 'MCQ', 'Q1', 'Q3', 'Q4', 'Q5')","{'C': 100, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+7,"('Gender', 'Total', 'Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+7,"('Total', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5921052631578947
+8,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5921052631578947
+3,"('Gender', 'MCQ', 'Q2')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'sigmoid'}",0.5855263157894737
+3,"('Gender', 'Q2', 'Q3')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5855263157894737
+3,"('Total', 'MCQ', 'Q2')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'sigmoid'}",0.5855263157894737
+3,"('Total', 'MCQ', 'Q4')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5855263157894737
+3,"('Total', 'Q2', 'Q3')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5855263157894737
+3,"('Total', 'Q3', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5855263157894737
+3,"('MCQ', 'Q2', 'Q5')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5855263157894737
+4,"('Gender', 'Total', 'MCQ', 'Q2')","{'C': 100, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.5855263157894737
+4,"('Gender', 'Total', 'Q4', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.5855263157894737
+4,"('Total', 'MCQ', 'Q4', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5855263157894737
+4,"('Total', 'Q1', 'Q2', 'Q3')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5855263157894737
+5,"('Gender', 'Total', 'Q1', 'Q2', 'Q5')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.5855263157894737
+5,"('Total', 'MCQ', 'Q1', 'Q2', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5855263157894737
+5,"('MCQ', 'Q1', 'Q3', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'sigmoid'}",0.5855263157894737
+6,"('Gender', 'Total', 'MCQ', 'Q1', 'Q3', 'Q5')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5855263157894737
+6,"('Gender', 'Total', 'Q1', 'Q2', 'Q3', 'Q4')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5855263157894737
+6,"('Gender', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q4')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5855263157894737
+7,"('Gender', 'Total', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q4')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5855263157894737
+3,"('Total', 'Q1', 'Q4')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5789473684210527
+3,"('MCQ', 'Q3', 'Q4')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5789473684210527
+4,"('Gender', 'Q1', 'Q2', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5789473684210527
+4,"('Gender', 'Q2', 'Q3', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5789473684210527
+4,"('Total', 'MCQ', 'Q1', 'Q4')","{'C': 100, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5789473684210527
+4,"('Total', 'MCQ', 'Q2', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.5789473684210527
+4,"('Total', 'Q1', 'Q4', 'Q5')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5789473684210527
+4,"('MCQ', 'Q2', 'Q4', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5789473684210527
+4,"('MCQ', 'Q3', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'sigmoid'}",0.5789473684210527
+5,"('Gender', 'Q1', 'Q2', 'Q4', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5789473684210527
+6,"('Total', 'MCQ', 'Q1', 'Q2', 'Q3', 'Q4')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5789473684210527
+6,"('Total', 'MCQ', 'Q1', 'Q2', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5789473684210527
+6,"('Total', 'Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'sigmoid'}",0.5789473684210527
+6,"('MCQ', 'Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'sigmoid'}",0.5789473684210527
+3,"('Gender', 'MCQ', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'sigmoid'}",0.5723684210526315
+3,"('Gender', 'Q1', 'Q4')","{'C': 100, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5723684210526315
+3,"('Total', 'Q3', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5723684210526315
+3,"('Total', 'Q4', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.5723684210526315
+4,"('Gender', 'Q1', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5723684210526315
+4,"('Gender', 'Q2', 'Q4', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5723684210526315
+4,"('Total', 'Q3', 'Q4', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5723684210526315
+4,"('Q1', 'Q3', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5723684210526315
+5,"('Gender', 'Total', 'MCQ', 'Q3', 'Q5')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5723684210526315
+5,"('Gender', 'Total', 'Q1', 'Q3', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5723684210526315
+5,"('Gender', 'Q1', 'Q3', 'Q4', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5723684210526315
+5,"('Total', 'MCQ', 'Q1', 'Q3', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5723684210526315
+5,"('Total', 'MCQ', 'Q1', 'Q3', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5723684210526315
+5,"('Total', 'MCQ', 'Q1', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'sigmoid'}",0.5723684210526315
+5,"('Total', 'Q1', 'Q2', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5723684210526315
+5,"('Total', 'Q1', 'Q3', 'Q4', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5723684210526315
+5,"('MCQ', 'Q1', 'Q2', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5723684210526315
+6,"('Gender', 'MCQ', 'Q2', 'Q3', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5723684210526315
+3,"('Gender', 'Q1', 'Q2')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.5657894736842105
+3,"('Gender', 'Q2', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5657894736842105
+3,"('Gender', 'Q3', 'Q5')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5657894736842105
+3,"('Total', 'MCQ', 'Q3')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5657894736842105
+3,"('MCQ', 'Q2', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5657894736842105
+3,"('Q1', 'Q2', 'Q4')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5657894736842105
+4,"('Gender', 'Total', 'Q2', 'Q5')","{'C': 100, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.5657894736842105
+4,"('Gender', 'Q1', 'Q2', 'Q3')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5657894736842105
+4,"('Gender', 'Q1', 'Q3', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5657894736842105
+4,"('Total', 'MCQ', 'Q2', 'Q4')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5657894736842105
+4,"('Total', 'Q1', 'Q3', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5657894736842105
+4,"('Total', 'Q2', 'Q3', 'Q4')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5657894736842105
+4,"('Q1', 'Q2', 'Q3', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'sigmoid'}",0.5657894736842105
+5,"('Gender', 'Total', 'Q2', 'Q3', 'Q5')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5657894736842105
+5,"('Gender', 'MCQ', 'Q2', 'Q4', 'Q5')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.5657894736842105
+5,"('MCQ', 'Q2', 'Q3', 'Q4', 'Q5')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5657894736842105
+6,"('Gender', 'Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5657894736842105
+6,"('Total', 'MCQ', 'Q1', 'Q3', 'Q4', 'Q5')","{'C': 100, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5657894736842105
+3,"('Gender', 'Q3', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'sigmoid'}",0.5592105263157895
+3,"('Q1', 'Q3', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5592105263157895
+3,"('Q2', 'Q4', 'Q5')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5592105263157895
+4,"('Total', 'MCQ', 'Q3', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5592105263157895
+4,"('Total', 'Q1', 'Q2', 'Q4')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5592105263157895
+4,"('MCQ', 'Q1', 'Q2', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'sigmoid'}",0.5592105263157895
+4,"('MCQ', 'Q2', 'Q3', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'sigmoid'}",0.5592105263157895
+4,"('Q1', 'Q2', 'Q3', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5592105263157895
+5,"('Total', 'Q2', 'Q3', 'Q4', 'Q5')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5592105263157895
+5,"('Q1', 'Q2', 'Q3', 'Q4', 'Q5')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5592105263157895
+3,"('Total', 'Q2', 'Q4')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5526315789473685
+3,"('Q1', 'Q2', 'Q3')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5526315789473685
+3,"('Q2', 'Q3', 'Q5')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5526315789473685
+4,"('Gender', 'Q1', 'Q2', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5526315789473685
+4,"('Total', 'MCQ', 'Q3', 'Q4')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5526315789473685
+4,"('Q2', 'Q3', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'sigmoid'}",0.5526315789473685
+5,"('Total', 'MCQ', 'Q2', 'Q3', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'sigmoid'}",0.5526315789473685
+5,"('Total', 'Q1', 'Q2', 'Q3', 'Q4')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5526315789473685
+3,"('Gender', 'Q2', 'Q5')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5460526315789473
+3,"('Total', 'Q2', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.5460526315789473
+3,"('Q2', 'Q3', 'Q4')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5460526315789473
+3,"('Q3', 'Q4', 'Q5')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5460526315789473
+4,"('Gender', 'Q1', 'Q3', 'Q4')","{'C': 0.01, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5460526315789473
+4,"('Gender', 'Q3', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5460526315789473
+4,"('Q1', 'Q2', 'Q4', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5460526315789473
+3,"('MCQ', 'Q3', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.5394736842105263
+5,"('Gender', 'Q2', 'Q3', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'linear'}",0.5394736842105263
+5,"('Total', 'MCQ', 'Q2', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.5394736842105263
+3,"('Gender', 'Q1', 'Q5')","{'C': 100, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.5328947368421053
+3,"('Gender', 'Q4', 'Q5')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.5328947368421053
+3,"('Q1', 'Q3', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.5328947368421053
+4,"('Total', 'Q2', 'Q4', 'Q5')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.5328947368421053
+4,"('Gender', 'Q2', 'Q3', 'Q5')","{'C': 1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}",0.5197368421052632
+3,"('Gender', 'Q1', 'Q3')","{'C': 0.1, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5131578947368421
+3,"('Q1', 'Q2', 'Q5')","{'C': 10, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}",0.5131578947368421
