@@ -180,4 +180,6 @@ git pull --rebase origin xxx（xxx为要提交代码的分支名称）
 
 **特别鸣谢：@General_K1ng**
 
+也在此推荐他的仓库https://github.com/GeneralK1ng/TechPantheon
+
 ------------------------End of File------------------------
